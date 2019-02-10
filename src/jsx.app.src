@@ -1,6 +1,6 @@
 {application, jsx,
 [
-    {description, "a streaming, evented json parsing toolkit"},
+    {description, "JSX JSON parsing toolkit"},
     {vsn, "2.9.0"},
     {modules, [
         jsx,
