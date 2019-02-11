@@ -20,7 +20,7 @@
     {env, []},
     {files, [
       "src",
-      "rebar.config", "rebar.config.script", "rebar.lock"
-      "README.md", "CHANGES.md", "LICENSE"
+      "rebar.config",
+      "README.md", "LICENSE"
     ]}
 ]}.
